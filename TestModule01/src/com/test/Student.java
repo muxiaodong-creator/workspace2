@@ -8,5 +8,10 @@ package com.test;
  **/
 public class Student {
 
+    /** 姓名 */
+    private String name;
+
+    /** 年龄 */
+    private String age;
 
 }
